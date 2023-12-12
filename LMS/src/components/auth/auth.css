@@ -1,0 +1,37 @@
+.auth-class{
+    background-color: rgb(217, 236, 236);
+    width: 40rem;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    margin-bottom: 8rem;
+    margin-top: 30vh;
+    border-radius: 12px;
+    /* justify-content: center; */
+    /* text-align: start; */
+}
+
+.auth-class h2{
+    font-size: 2rem;
+    text-decoration: underline;
+    /* margin: 5rem; */
+}
+.auth-class label{
+    /* background-color: #fff; */
+    width: 30rem;
+    font-size: 1.5rem;
+}
+.auth-class input {
+    width: 100%;
+    height: 3rem;
+    font-size: 1.4rem;
+    padding: 0.6rem;
+
+}
+.auth-class button{
+    width: 50%;
+    font-size: 1.5rem;
+}
